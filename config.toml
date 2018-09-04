@@ -43,9 +43,12 @@ enableGitInfo = false
 # Configure BlackFriday Markdown rendering.
 #   See: https://gohugo.io/getting-started/configuration/#configure-blackfriday
 [blackfriday]
-  hrefTargetBlank = true  # `true` opens external links in a new tab.
-  fractions = true  # `false` disables smart fractions (e.g. 5/12 formatted as a fraction).
-  smartypants = true  # `false` disables all smart punctuation substitutions (e.g. smart quotes, dashes, fractions).
+  hrefTargetBlank = true  
+  # `true` opens external links in a new tab.
+  fractions = true 
+  # `false` disables smart fractions (e.g. 5/12 formatted as a fraction).
+  smartypants = true 
+  # `false` disables all smart punctuation substitutions (e.g. smart quotes, dashes, fractions).
 
 [params]
   # Color theme.
@@ -64,8 +67,10 @@ enableGitInfo = false
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
   organizations = [ { name = "Stanford University", url = "" } ]
 
-  gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  gravatar = false  
+  # Get your avatar from Gravatar.com? (true/false)
+  avatar = "portrait.jpg"  
+  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "test@example.org"
   address = "Building 1 Room 1, Stanford University, California, 90210, USA"
   office_hours = "Monday 10:00 to 13:00 or email for appointment"
