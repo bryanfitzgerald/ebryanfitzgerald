@@ -9,11 +9,11 @@
 baseurl = "/"
 
 # Title of your site
-title = "Academic"
+title = "Bryan FitzGerald"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; 2018 Bryan FitzGerald"
 
 theme = "hugo-academic"
 enableEmoji = true
@@ -60,12 +60,12 @@ enableGitInfo = false
   font = "default"
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "Bryan FitzGerald"
+  role = "Graduate Student in Political Science"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ { name = "University of California, Irvine", url = "" } ]
 
   gravatar = false  
   # Get your avatar from Gravatar.com? (true/false)
