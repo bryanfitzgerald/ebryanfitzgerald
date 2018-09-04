@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = 2016-04-20T00:00:00
+date = 2018-09-04T00:00:00
 
 # Order that this section will appear in.
 weight = 5
@@ -12,7 +12,7 @@ weight = 5
   interests = [
     "Public Opinion",
     "Political Psychology",
-    "R Codingl"
+    "R Coding"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -22,19 +22,14 @@ weight = 5
   year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "BFA - Political Science"
+  institution = "San Diego State University"
   year = 2009
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
+
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Bryan FitzGerald is a PhD student in the Department of Political Science at the University of California, Irvine.  His research interest is in political psychology, public opinion, and REP. He founded and runs the political psychology reading group and loves coding in R.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
