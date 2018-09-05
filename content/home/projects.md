@@ -34,8 +34,8 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "Deep Learning"
-  tag = "Deep Learning"
+  name = "Guilty Participant"
+  tag = "Guilt"
 
 [[filter]]
   name = "Other"
