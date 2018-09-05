@@ -12,7 +12,7 @@
     
     <url>
     
-      <loc>/project/example-external-project/</loc>
+      <loc>/project/climate_change_guilt/</loc>
       <lastmod>2016-04-27T00:00:00-07:00</lastmod>
     </url>
     
@@ -45,15 +45,6 @@
     
     <url>
     
-      <loc>/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/project/</loc>
       <lastmod>2016-04-27T00:00:00-07:00</lastmod>
       <priority>0</priority>
@@ -72,7 +63,6 @@
     <url>
     
       <loc>/tags/</loc>
-      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     

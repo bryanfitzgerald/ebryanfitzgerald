@@ -33,11 +33,11 @@ filter_default = 0
   name = "All"
   tag = "*"
 
-#[[filter]]
+[[filter]]
   name = "Guilty Participants"
   tag = ""
 
-#[[filter]]
+[[filter]]
   name = "Climate Change Guilt"
   tag = ""
 
