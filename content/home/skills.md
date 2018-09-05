@@ -32,7 +32,7 @@ weight = 7
   name = "Statistics" 
   
 [[feature]]
-  icon = "fa-edit"
+  icon = "edit"
   icon_pack = "fas"
   name = "MTurk"
 
