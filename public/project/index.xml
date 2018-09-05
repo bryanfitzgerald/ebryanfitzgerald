@@ -13,21 +13,21 @@
     
     
     <item>
-      <title>Deep Learning</title>
-      <link>/project/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
-      
-      <guid>/project/deep-learning/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
-    </item>
-    
-    <item>
       <title>External Project</title>
       <link>/project/example-external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>/project/example-external-project/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Guilty Participant</title>
+      <link>/project/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>/project/deep-learning/</guid>
+      <description>Abstract: Analyzing the racial attitudes scale as ranging from racial animus to racial liberalism, the current paper examines the emotional foundation for racial liberalism, white guilt, and its relationship to political participation. We start by theorizing that White Americans who recognize their systemic advantage relative to African-Americans as illegitimate, develop feelings of guilt. In an attempt to relieve this negative emotion, racially liberal Whites take action in politics aimed toward racial equality.</description>
     </item>
     
   </channel>
