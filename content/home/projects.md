@@ -29,17 +29,17 @@ filter_default = 0
 # To show all items, set `tag` to "*".
 # To filter by a specific tag, set `tag` to an existing tag name.
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
-[[filter]]
+#[[filter]]
   name = "All"
   tag = "*"
 
-[[filter]]
-  name = "Guilty Participant"
-  tag = "Guilt"
+#[[filter]]
+  name = "Guilty Participants"
+  tag = ""
 
-[[filter]]
-  name = "Other"
-  tag = "Demo"
+#[[filter]]
+  name = "Individual and Collective Guilt"
+  tag = ""
 
 +++
 
