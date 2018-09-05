@@ -16,6 +16,7 @@ weight = 60
 +++
 
 I have been a  teaching assistant for the following courses at UC Irvine:
+Click on the link to view my TA evaluations
 
 - Fall 2018	- TBD
 - [Spring 2018	- Pol Sci 152C	: Public Policy](https://github.com/bryanfitzgerald/ebryanfitzgerald/blob/master/TA%20Evals/Spr_2018.pdf)
@@ -24,3 +25,5 @@ I have been a  teaching assistant for the following courses at UC Irvine:
 - [Spring 2017](https://github.com/bryanfitzgerald/ebryanfitzgerald/blob/master/TA%20Evals/Spr_2017_1.pdf)	- [Pol Sci 21A](https://github.com/bryanfitzgerald/ebryanfitzgerald/blob/master/TA%20Evals/Spr_2017_2.pdf)	: [Intro to American Politics](https://github.com/bryanfitzgerald/ebryanfitzgerald/blob/master/TA%20Evals/Spr_2017_3.pdf)
 - [Winter 2017	- Psych 7A	: Intro to Psychology](https://github.com/bryanfitzgerald/ebryanfitzgerald/blob/master/TA%20Evals/Wnt_2017.pdf)
 - Fall 2016	- Soc Sci 5D	: US/World Geography
+
+* Note: There are 3 different evaluation links for Spring 2017.
