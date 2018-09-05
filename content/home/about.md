@@ -32,4 +32,3 @@ weight = 5
 # Biography
 
 Bryan FitzGerald is a PhD student in the Department of Political Science at the University of California, Irvine.  His research interest is in political psychology, public opinion, and REP. He founded and runs the political psychology reading group and loves coding in R.
-
