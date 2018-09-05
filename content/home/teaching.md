@@ -20,7 +20,7 @@ I have been a  teaching assistant for the following courses at UC Irvine:
 - Fall 2018	- TBD
 - Spring 2018	- Pol Sci 152C	: Public Policy
 - Winter 2018	- Psych 7A	: Intro to Psychology
-- Fall 2017	- Psych 7A	: Intro to Psychology
+- [Fall 2017	- Psych 7A	: Intro to Psychology](https://github.com/bryanfitzgerald/ebryanfitzgerald/blob/master/TA%20Evals/Fall_2017.pdf)
 - Spring 2017	- Pol Sci 21A	: Intro to American Politics
 - Winter 2017	- Psych 7A	: Intro to Psychology
 - Fall 2016	- Soc Sci 5D	: US/World Geography
