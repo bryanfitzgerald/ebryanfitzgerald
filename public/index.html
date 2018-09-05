@@ -316,15 +316,6 @@
           </a>
         </li>
         
-        
-        
-        
-        <li>
-          <a itemprop="sameAs" href="files/cv.pdf" target="_blank" rel="noopener">
-            <i class="ai ai-cv big-icon"></i>
-          </a>
-        </li>
-        
       </ul>
 
     </div>
@@ -1056,7 +1047,7 @@
 
     <div id="search-box">
       
-      <input name="q" id="search-query" placeholder="Search..." autocapitalize="off" autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+      
       
     </div>
 
@@ -1069,14 +1060,14 @@
 
 
 
-<script id="search-hit-fuse-template" type="text/x-template">
-  <div class="search-hit" id="summary-{{key}}">
+<script id="search-hit-algolia-template" type="text/html">
+  <div class="search-hit">
     <div class="search-hit-content">
       <div class="search-hit-name">
-        <a href="{{relpermalink}}">{{title}}</a>
-        <div class="article-metadata search-hit-type">{{type}}</div>
-        <p class="search-hit-description">{{snippet}}</p>
+        <a href="{{relpermalink}}">{{{_highlightResult.title.value}}}</a>
       </div>
+      <div class="article-metadata search-hit-type">{{type}}</div>
+      <p class="search-hit-description">{{{_highlightResult.summary.value}}}</p>
     </div>
   </div>
 </script>
@@ -1243,27 +1234,8 @@
     
 
     
-    
-    <script>
-      const search_index_filename = "/index.json";
-      const i18n = {
-        'placeholder': "Search...",
-        'no_results': "No results found"
-      };
-      const content_type = {
-        'post': "Posts",
-        'project': "Projects",
-        'publication' : "Publications",
-        'talk' : "Talks"
-        };
-    </script>
-    
 
     
-    
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
-    <script src="/js/search.js"></script>
     
 
     
