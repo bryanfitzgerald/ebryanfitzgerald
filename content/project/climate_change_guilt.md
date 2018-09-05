@@ -3,7 +3,7 @@
 date = 2016-04-27T00:00:00
 
 # Project title.
-title = "External Project"
+title = "Climate Change Guilt"
 
 # Project summary to display on homepage.
 summary = "Support for Climate Regulations from Different Forms of Guilt"

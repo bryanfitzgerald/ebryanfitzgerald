@@ -38,7 +38,7 @@ filter_default = 0
   tag = ""
 
 #[[filter]]
-  name = "Individual and Collective Guilt"
+  name = "Climate Change Guilt"
   tag = ""
 
 +++
